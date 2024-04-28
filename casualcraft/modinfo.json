@@ -1,0 +1,11 @@
+{
+    "type": "code",
+    "modid": "casualcraft",
+    "name": "Casual Craft",
+    "author": "Keb129",
+    "description": "Add some usefull(less) things. It's my testing place",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}

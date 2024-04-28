@@ -1,0 +1,8 @@
+[
+  {
+    "file": "game:blocktypes/wax/skeep",
+    "op": "replace",
+    "path": "/drops/1/quantity",
+    "value": 16
+  }
+]

@@ -1,0 +1,15 @@
+[
+	{ 
+	file: "game:recipes/smithing/plate",
+	op: "replace",
+	path: "/pattern", 
+	value: [[
+		"#######",
+		"#######",
+		"#######",
+		"#######",
+		"#######",
+		"#######",
+	]],
+	}
+]
